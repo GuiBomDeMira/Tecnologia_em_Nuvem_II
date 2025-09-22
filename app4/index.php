@@ -24,4 +24,3 @@ echo "Frase em binário: " . $fraseBinario;
 ?>
 
 
-//substitui por esse
